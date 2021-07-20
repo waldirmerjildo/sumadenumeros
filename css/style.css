@@ -38,3 +38,25 @@ p{
     font-size: 30px;
     color: yellow;
 }
+
+/* ejerciico suma promedio */
+.sumapromedio {
+    padding: 20px;
+    text-align: center;
+    
+
+}
+
+/* Ejercicio de mostrar impares entre dos numeros */
+.numerosimpares{
+    padding: 20px;
+    text-align: center;
+    background: rgb(11, 212, 55);
+}
+
+/* Ejercicio de mostrar los divisores de un numero */
+.divisores{
+    padding: 20px;
+    text-align: center;
+    background: rgb(15, 28, 211);
+}
